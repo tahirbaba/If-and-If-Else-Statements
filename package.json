@@ -1,0 +1,34 @@
+{
+  "name": "if-and-if-else-working",
+  "version": "1.0.0",
+  "description": "It's If Else Statements Coding",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "We",
+    "are",
+    "learning",
+    "that",
+    "how",
+    "can",
+    "i",
+    "use",
+    "\"If",
+    "and",
+    "If",
+    "Else",
+    "Statements\""
+  ],
+  "author": "Muhammmad Tahir Hasni",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
